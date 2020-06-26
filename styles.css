@@ -1,0 +1,86 @@
+table {
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  th {
+    background-color: LightGray;
+  }
+  
+
+  td {
+    padding-left: 10px;
+    padding-right: 10px;  
+ }
+
+ .lightgrey {
+     background-color: gainsboro;
+ }
+
+
+  body {
+    background-color: LavenderBlush;
+  }
+  
+
+  #bc-example {
+    background-color: green;
+  }
+  
+  #c-example {
+    color: green;
+  }
+  
+  #lg-example {
+    background-image: linear-gradient(90deg, OliveDrab, SeaGreen);
+  }
+  
+  .title {
+    font-weight: bold;
+    border: 2px solid green;
+    background-color: seagreen;
+    color: white;
+    max-width: 610px;
+  }
+  
+  header {
+    background-color: MediumSeaGreen;
+    text-align: center;
+    padding-top: 5px;
+  }
+  
+  footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    padding-bottom: 20px;
+    opacity: 0.5;
+  }
+
+  p, h2, h1, span, li, td, th {
+      font-family: Arial;
+  }
+
+  span {
+      font-weight: bold;
+      font-family: Lucida Console, Courier, monospace;
+      
+  }
+
+  .greenText {
+      color: green;
+  }
+
+  td {
+      font-size: 13px;
+  }
+
+  li {
+      list-style: square;
+  }
